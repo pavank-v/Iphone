@@ -1,5 +1,5 @@
 {
-  "homepage": "https://pavank-v.github.io/apple-iphone",
+  "homepage": "https://pavank-v.github.io/Iphone",
   "name": "apple-clone",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -b gh-pages" 
+    "preview": "vite preview"
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",
