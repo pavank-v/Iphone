@@ -40,7 +40,7 @@ Make sure you have the following tools installed:
 
 ```bash
 git clone https://github.com/pavank-v/Iphone.git
-cd iphone-doc
+cd Iphone
 ```
 
 ```bash
@@ -54,6 +54,6 @@ npm run dev
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 ### Screenshots
-- ![Hero Section](https://github.com/user-attachments/assets/c055a92f-12ee-4932-98f9-05e49dbbb817)
-- ![Video Carousal](https://github.com/user-attachments/assets/4bf564cd-468c-4749-b23b-0dfba883ff2a)
-- ![3d Model](https://github.com/user-attachments/assets/68397228-6f8d-4ddd-9a32-5b6b19b0c1b8)
+![Hero Section](https://github.com/user-attachments/assets/c055a92f-12ee-4932-98f9-05e49dbbb817)
+![Video Carousal](https://github.com/user-attachments/assets/4bf564cd-468c-4749-b23b-0dfba883ff2a)
+![3d Model](https://github.com/user-attachments/assets/68397228-6f8d-4ddd-9a32-5b6b19b0c1b8)
