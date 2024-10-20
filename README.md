@@ -1,6 +1,6 @@
 ## <a name="introduction">🚀 Introduction</a>
 
-This project is a clone of Apple's iPhone 15 Pro website, built using **React.js** and **Tailwind CSS**. It showcases advanced animation techniques with **GSAP (Greensock)** and interactive 3D models of the iPhone 15 Pro in various colors and sizes using **Three.js**.
+This project is a clone of Apple's iPhone 15 Pro website, built using **React.js** and **Tailwind CSS**. It showcases advanced animation techniques with **GSAP (Greensock Animation Platform)** and interactive 3D models of the iPhone 15 Pro in various colors and sizes using **Three.js**.
 
 ## <a name="tech-stack">🛠 Tech Stack</a>
 
