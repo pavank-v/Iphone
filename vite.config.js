@@ -7,6 +7,5 @@ export default defineConfig({
   plugins: [react(), sentryVitePlugin({
     org: "jsm-9i",
     project: "javascript-react",
-    base: "/Iphone/"
   })],
 })
